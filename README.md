@@ -10,6 +10,6 @@ https://souki20.github.io/react_tic-tac-toe/
 - コンピューターと対戦機能
 - 過去に戻る機能
 
-###使用技術
+### 使用技術
 - React
 - gh-pages
